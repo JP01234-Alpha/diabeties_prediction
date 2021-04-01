@@ -9,7 +9,6 @@ Flask==1.1.2
 itsdangerous==1.1.0
 mccabe==0.6.1
 parso==0.7.0
-pywin32==227
 pyzmq==20.0.0
 QtPy==1.9.0
 spyder==3.3.6
