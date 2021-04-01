@@ -19,4 +19,4 @@ wincertstore==0.2
 wrapt==1.12.1
 gunicorn
 requests
-sklearn==0.22.2
+sklearn
