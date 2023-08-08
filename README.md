@@ -1,2 +1,2 @@
-# diabeties_prediction
+# Diabeties Prediction
 Diabeties_Prediction  Web App
